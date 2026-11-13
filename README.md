@@ -10,6 +10,7 @@ My Data Structures and Algorithms practice in C++ | LeetCode problem solutions, 
 | [0088-merge-sorted-array](https://github.com/Harshi1409/Leetcode-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Harshi1409/Leetcode-Solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0217-contains-duplicate](https://github.com/Harshi1409/Leetcode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
+| [0238-product-of-array-except-self](https://github.com/Harshi1409/Leetcode-Solutions/tree/main/0238-product-of-array-except-self/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -28,4 +29,8 @@ My Data Structures and Algorithms practice in C++ | LeetCode problem solutions, 
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/Harshi1409/Leetcode-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0217-contains-duplicate](https://github.com/Harshi1409/Leetcode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0238-product-of-array-except-self](https://github.com/Harshi1409/Leetcode-Solutions/tree/main/0238-product-of-array-except-self/) | Medium |
 <!---LeetCode Topics End-->
