@@ -7,6 +7,7 @@ My Data Structures and Algorithms practice in C++ | LeetCode problem solutions, 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Harshi1409/Leetcode-Solutions/tree/main/0001-two-sum/) | Easy |
+| [0088-merge-sorted-array](https://github.com/Harshi1409/Leetcode-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Harshi1409/Leetcode-Solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -16,4 +17,12 @@ My Data Structures and Algorithms practice in C++ | LeetCode problem solutions, 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Harshi1409/Leetcode-Solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0088-merge-sorted-array](https://github.com/Harshi1409/Leetcode-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0088-merge-sorted-array](https://github.com/Harshi1409/Leetcode-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
 <!---LeetCode Topics End-->
